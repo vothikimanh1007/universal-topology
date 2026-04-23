@@ -1,0 +1,519 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Universal Topology | The Algorithm of Awakening</title>
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Three.js for Antigravity 3D Background -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;600;700&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+    <!-- Phosphor Icons -->
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        space: ['"Space Grotesk"', 'sans-serif'],
+                        inter: ['Inter', 'sans-serif'],
+                    },
+                    colors: {
+                        dark: '#0a0a0f',
+                        gold: '#FFCC66',
+                        crimson: '#FF6666',
+                        emerald: '#66CC66',
+                        silver: '#A9A9A9'
+                    }
+                }
+            }
+        }
+    </script>
+
+    <style>
+        body {
+            background-color: #0a0a0f;
+            color: #ffffff;
+            font-family: 'Inter', sans-serif;
+            overflow-x: hidden;
+        }
+
+        h1, h2, h3, h4, .font-space {
+            font-family: '"Space Grotesk"', sans-serif;
+        }
+
+        /* 3D Canvas Background */
+        #canvas-container {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            z-index: -1;
+            pointer-events: none;
+        }
+
+        /* Glassmorphism UI */
+        .glass-panel {
+            background: rgba(20, 20, 25, 0.4);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            border-radius: 24px;
+            box-shadow: 0 30px 60px rgba(0, 0, 0, 0.4);
+            transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275), border-color 0.4s ease;
+        }
+
+        .glass-panel:hover {
+            border-color: rgba(255, 255, 255, 0.2);
+            transform: translateY(-10px) scale(1.02);
+        }
+
+        /* Antigravity Animations */
+        @keyframes float-slow {
+            0%, 100% { transform: translateY(0px) rotate(0deg); }
+            50% { transform: translateY(-20px) rotate(1deg); }
+        }
+        @keyframes float-med {
+            0%, 100% { transform: translateY(0px); }
+            50% { transform: translateY(-15px); }
+        }
+        @keyframes float-fast {
+            0%, 100% { transform: translateY(0px); }
+            50% { transform: translateY(-10px); }
+        }
+
+        .antigrav-1 { animation: float-slow 8s ease-in-out infinite; }
+        .antigrav-2 { animation: float-med 6s ease-in-out infinite reverse; }
+        .antigrav-3 { animation: float-fast 5s ease-in-out infinite 1s; }
+
+        /* Custom Scrollbar */
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: #0a0a0f; }
+        ::-webkit-scrollbar-thumb { background: rgba(255, 255, 255, 0.2); border-radius: 10px; }
+        ::-webkit-scrollbar-thumb:hover { background: rgba(255, 255, 255, 0.4); }
+
+        /* Gradient Text */
+        .text-gradient {
+            background: linear-gradient(to right, #fff, #888);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+    </style>
+</head>
+<body class="antialiased text-gray-200">
+
+    <!-- 3D Antigravity Background -->
+    <div id="canvas-container"></div>
+
+    <!-- Navigation -->
+    <nav class="fixed w-full z-50 glass-panel border-none rounded-none bg-opacity-10 backdrop-blur-md">
+        <div class="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
+            <div class="flex items-center gap-2">
+                <i class="ph ph-planet text-3xl text-emerald"></i>
+                <span class="font-space font-bold text-xl tracking-wider">UNIVERSAL<span class="text-gray-500">TOPOLOGY</span></span>
+            </div>
+            <div class="hidden md:flex gap-8 text-sm font-medium tracking-wide">
+                <a href="#philosophy" class="hover:text-emerald transition-colors">Philosophy</a>
+                <a href="#model" class="hover:text-gold transition-colors">The Model</a>
+                <a href="#application" class="hover:text-crimson transition-colors">Applications</a>
+            </div>
+            <a href="#model" class="px-5 py-2 bg-white text-dark font-semibold rounded-full hover:bg-gray-200 transition-all transform hover:scale-105">
+                Explore Model
+            </a>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="relative min-h-screen flex items-center justify-center pt-20 overflow-hidden">
+        <div class="max-w-5xl mx-auto px-6 text-center z-10 antigrav-1">
+            <div class="inline-block mb-6 px-4 py-1.5 rounded-full border border-gray-700 bg-gray-900 bg-opacity-50 backdrop-blur-sm text-sm text-gray-300 font-medium tracking-widest uppercase">
+                A Computational Theology Framework
+            </div>
+            <h1 class="text-5xl md:text-7xl font-bold font-space mb-6 leading-tight">
+                Decoding the <span class="text-gradient">Source Code</span> <br> of Human Spirituality.
+            </h1>
+            <p class="text-lg md:text-xl text-gray-400 mb-10 max-w-3xl mx-auto leading-relaxed">
+                Discover the hidden mathematical structure connecting the Gospel of Mary, Mahayana Buddhism, and Daoism. We translate ancient mysticism into the modern language of Network Topology and Cognitive Science.
+            </p>
+            <div class="flex flex-col sm:flex-row gap-4 justify-center">
+                <a href="#model" class="px-8 py-4 bg-emerald bg-opacity-20 border border-emerald text-emerald hover:bg-emerald hover:text-dark font-bold rounded-full transition-all duration-300 flex items-center justify-center gap-2">
+                    <i class="ph ph-graph"></i> View Topological Map
+                </a>
+                <a href="#philosophy" class="px-8 py-4 bg-gray-800 bg-opacity-50 border border-gray-600 text-white hover:bg-gray-700 font-bold rounded-full transition-all duration-300 flex items-center justify-center gap-2">
+                    <i class="ph ph-book-open-text"></i> Read the Philosophy
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- The 4 Super-Nodes Section -->
+    <section id="model" class="py-24 relative z-10">
+        <div class="max-w-7xl mx-auto px-6">
+            <div class="text-center mb-16 antigrav-2">
+                <h2 class="text-3xl md:text-5xl font-bold font-space mb-4">The 4 Epistemic Pillars</h2>
+                <p class="text-gray-400 max-w-2xl mx-auto">Regardless of cultural or linguistic boundaries, our AI text analysis reveals that all major contemplative traditions converge on four universal "Super-Nodes" of reality.</p>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                
+                <!-- Node 1: Matter -->
+                <div class="glass-panel p-8 antigrav-3 group relative overflow-hidden">
+                    <div class="absolute -right-10 -top-10 w-40 h-40 bg-silver rounded-full opacity-10 group-hover:opacity-20 transition-opacity blur-2xl"></div>
+                    <div class="flex items-center gap-4 mb-6">
+                        <div class="w-12 h-12 rounded-full bg-silver bg-opacity-20 flex items-center justify-center border border-silver border-opacity-50">
+                            <i class="ph ph-cube text-2xl text-silver"></i>
+                        </div>
+                        <h3 class="text-2xl font-bold font-space text-silver">1. The Interface (Matter)</h3>
+                    </div>
+                    <p class="text-gray-300 mb-6 leading-relaxed">
+                        Not the ultimate reality, but the "Graphical User Interface" of the universe. It is transient and malleable.
+                    </p>
+                    <div class="space-y-3 text-sm text-gray-400 border-t border-gray-700 pt-4">
+                        <div class="flex justify-between"><span class="text-gray-500">Gnosticism:</span> <span class="text-white">Hyle / The Material Realm</span></div>
+                        <div class="flex justify-between"><span class="text-gray-500">Buddhism:</span> <span class="text-white">Rupa / Form (Five Skandhas)</span></div>
+                        <div class="flex justify-between"><span class="text-gray-500">Daoism:</span> <span class="text-white">Wu / The Ten Thousand Things</span></div>
+                    </div>
+                </div>
+
+                <!-- Node 2: Mind -->
+                <div class="glass-panel p-8 antigrav-1 group relative overflow-hidden">
+                    <div class="absolute -right-10 -top-10 w-40 h-40 bg-gold rounded-full opacity-10 group-hover:opacity-20 transition-opacity blur-2xl"></div>
+                    <div class="flex items-center gap-4 mb-6">
+                        <div class="w-12 h-12 rounded-full bg-gold bg-opacity-20 flex items-center justify-center border border-gold border-opacity-50">
+                            <i class="ph ph-eye text-2xl text-gold"></i>
+                        </div>
+                        <h3 class="text-2xl font-bold font-space text-gold">2. The Observer (Mind)</h3>
+                    </div>
+                    <p class="text-gray-300 mb-6 leading-relaxed">
+                        The localized point of consciousness processing the interface. It is distinct from the material it observes.
+                    </p>
+                    <div class="space-y-3 text-sm text-gray-400 border-t border-gray-700 pt-4">
+                        <div class="flex justify-between"><span class="text-gray-500">Gnosticism:</span> <span class="text-white">Nous / The Inner Man</span></div>
+                        <div class="flex justify-between"><span class="text-gray-500">Buddhism:</span> <span class="text-white">Citta / Pure Awareness</span></div>
+                        <div class="flex justify-between"><span class="text-gray-500">Daoism:</span> <span class="text-white">Xin / The Uncarved Block</span></div>
+                    </div>
+                </div>
+
+                <!-- Node 3: Ignorance -->
+                <div class="glass-panel p-8 antigrav-2 group relative overflow-hidden">
+                    <div class="absolute -right-10 -top-10 w-40 h-40 bg-crimson rounded-full opacity-10 group-hover:opacity-20 transition-opacity blur-2xl"></div>
+                    <div class="flex items-center gap-4 mb-6">
+                        <div class="w-12 h-12 rounded-full bg-crimson bg-opacity-20 flex items-center justify-center border border-crimson border-opacity-50">
+                            <i class="ph ph-spiral text-2xl text-crimson"></i>
+                        </div>
+                        <h3 class="text-2xl font-bold font-space text-crimson">3. The Loop (Ignorance)</h3>
+                    </div>
+                    <p class="text-gray-300 mb-6 leading-relaxed">
+                        The cognitive algorithms, biases, and fears that trap the Mind in a deterministic cycle of reactivity.
+                    </p>
+                    <div class="space-y-3 text-sm text-gray-400 border-t border-gray-700 pt-4">
+                        <div class="flex justify-between"><span class="text-gray-500">Gnosticism:</span> <span class="text-white">Archons / The Seven Powers</span></div>
+                        <div class="flex justify-between"><span class="text-gray-500">Buddhism:</span> <span class="text-white">Avidya / Samsara</span></div>
+                        <div class="flex justify-between"><span class="text-gray-500">Psychology:</span> <span class="text-white">Cognitive Distortions / Priors</span></div>
+                    </div>
+                </div>
+
+                <!-- Node 4: Root Access -->
+                <div class="glass-panel p-8 antigrav-3 group relative overflow-hidden">
+                    <div class="absolute -right-10 -top-10 w-40 h-40 bg-emerald rounded-full opacity-10 group-hover:opacity-20 transition-opacity blur-2xl"></div>
+                    <div class="flex items-center gap-4 mb-6">
+                        <div class="w-12 h-12 rounded-full bg-emerald bg-opacity-20 flex items-center justify-center border border-emerald border-opacity-50">
+                            <i class="ph ph-keyhole text-2xl text-emerald"></i>
+                        </div>
+                        <h3 class="text-2xl font-bold font-space text-emerald">4. Root Access (Liberation)</h3>
+                    </div>
+                    <p class="text-gray-300 mb-6 leading-relaxed">
+                        The ultimate bypass. Disengaging from the Loop to directly apprehend and merge with Base Reality.
+                    </p>
+                    <div class="space-y-3 text-sm text-gray-400 border-t border-gray-700 pt-4">
+                        <div class="flex justify-between"><span class="text-gray-500">Gnosticism:</span> <span class="text-white">Gnosis / Ascent of the Soul</span></div>
+                        <div class="flex justify-between"><span class="text-gray-500">Buddhism:</span> <span class="text-white">Śūnyatā / Emptiness / Nirvana</span></div>
+                        <div class="flex justify-between"><span class="text-gray-500">Daoism:</span> <span class="text-white">Wu-wei / Returning to the Root</span></div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- Path of Liberation Explanation -->
+    <section id="philosophy" class="py-24 relative z-10 bg-black bg-opacity-40 backdrop-blur-lg">
+        <div class="max-w-6xl mx-auto px-6">
+            <div class="flex flex-col md:flex-row gap-16 items-center">
+                <div class="md:w-1/2">
+                    <h2 class="text-3xl md:text-5xl font-bold font-space mb-6">The Gnostic Bypass</h2>
+                    <p class="text-gray-300 text-lg mb-6 leading-relaxed">
+                        In network theory, an entity caught in a closed loop (like Samsara or the Archontic trap) cannot escape by fighting the nodes within the loop. The only solution is a <strong>topological bypass</strong>.
+                    </p>
+                    <p class="text-gray-300 text-lg mb-8 leading-relaxed">
+                        Whether it is the Buddha teaching non-attachment, Laozi teaching <em>Wu-wei</em> (non-action), or the Savior in the Gospel of Mary teaching the soul to say "I am not of your nature," the mechanism is identical: <strong>Halt the predictive coding. Stop feeding data to the illusion. Gain Root Access.</strong>
+                    </p>
+                    <button class="flex items-center gap-2 text-gold hover:text-white transition-colors font-semibold">
+                        <i class="ph ph-file-pdf text-xl"></i> Read the Full Academic Paper
+                    </button>
+                </div>
+                
+                <div class="md:w-1/2 w-full antigrav-1">
+                    <!-- CSS drawn diagram -->
+                    <div class="glass-panel p-8 flex flex-col items-center">
+                        <div class="w-full flex justify-between items-center mb-8">
+                            <div class="text-center">
+                                <div class="w-16 h-16 rounded-full bg-gold shadow-[0_0_20px_rgba(255,204,102,0.5)] flex items-center justify-center mb-2 mx-auto"><i class="ph ph-eye text-2xl text-dark"></i></div>
+                                <span class="text-sm font-bold">MIND</span>
+                            </div>
+                            <div class="flex-1 border-t-2 border-dashed border-crimson relative mx-4">
+                                <div class="absolute -top-6 left-1/2 transform -translate-x-1/2 text-xs text-crimson font-bold">Trapped</div>
+                                <i class="ph ph-arrow-right absolute -right-2 -top-2.5 text-crimson text-xl"></i>
+                            </div>
+                            <div class="text-center">
+                                <div class="w-16 h-16 rounded-full bg-crimson shadow-[0_0_20px_rgba(255,102,102,0.5)] flex items-center justify-center mb-2 mx-auto"><i class="ph ph-spiral text-2xl text-dark"></i></div>
+                                <span class="text-sm font-bold">ARCHONS</span>
+                            </div>
+                        </div>
+                        
+                        <div class="w-full relative h-32">
+                            <!-- Bypass curved arrow via SVG -->
+                            <svg class="absolute top-0 left-8 w-[calc(100%-4rem)] h-full overflow-visible" preserveAspectRatio="none">
+                                <path d="M 10 10 Q 150 120 300 10" fill="transparent" stroke="#66CC66" stroke-width="3" stroke-dasharray="5,5">
+                                    <animate attributeName="stroke-dashoffset" values="10;0" dur="1s" repeatCount="indefinite" />
+                                </path>
+                                <polygon points="300,10 290,5 295,15" fill="#66CC66"/>
+                            </svg>
+                            <div class="absolute bottom-0 left-1/2 transform -translate-x-1/2 text-center">
+                                <div class="text-emerald font-bold text-sm bg-dark px-2 rounded-md mb-2">THE BYPASS</div>
+                                <div class="w-20 h-20 rounded-full bg-emerald shadow-[0_0_30px_rgba(102,204,102,0.6)] flex items-center justify-center mx-auto"><i class="ph ph-keyhole text-3xl text-dark"></i></div>
+                                <span class="text-sm font-bold mt-2 block">ROOT ACCESS</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="border-t border-white border-opacity-10 py-10 relative z-10 bg-dark">
+        <div class="max-w-7xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-4">
+            <div class="flex items-center gap-2 opacity-50">
+                <i class="ph ph-planet text-2xl"></i>
+                <span class="font-space font-bold tracking-wider">UNIVERSAL TOPOLOGY</span>
+            </div>
+            <p class="text-sm text-gray-500 text-center">
+                Bridging ancient spirituality, digital humanities, and computational theology.
+            </p>
+            <div class="flex gap-4 opacity-50">
+                <a href="#" class="hover:text-white transition-colors"><i class="ph ph-github-logo text-xl"></i></a>
+                <a href="#" class="hover:text-white transition-colors"><i class="ph ph-twitter-logo text-xl"></i></a>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Three.js Antigravity Logic -->
+    <script>
+        // Setup Three.js Scene
+        const scene = new THREE.Scene();
+        
+        // Add subtle fog to the scene for depth
+        scene.fog = new THREE.FogExp2(0x0a0a0f, 0.0015);
+
+        const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+        camera.position.z = 100;
+
+        const renderer = new THREE.WebGLRenderer({ alpha: true, antialias: true });
+        renderer.setSize(window.innerWidth, window.innerHeight);
+        renderer.setPixelRatio(window.devicePixelRatio);
+        document.getElementById('canvas-container').appendChild(renderer.domElement);
+
+        // Create a central group to rotate everything
+        const networkGroup = new THREE.Group();
+        scene.add(networkGroup);
+
+        // Helper function to create glowing materials
+        function createGlowMaterial(colorHex) {
+            return new THREE.MeshBasicMaterial({
+                color: colorHex,
+                transparent: true,
+                opacity: 0.8,
+                blending: THREE.AdditiveBlending
+            });
+        }
+
+        // 1. Create the 4 Super Nodes (Matter, Mind, Ignorance, Root)
+        const superNodesData = [
+            { pos: [-40, 20, 10], color: 0xA9A9A9, size: 4, name: "Matter" },   // Silver
+            { pos: [30, 30, -10], color: 0xFFCC66, size: 5, name: "Mind" },     // Gold
+            { pos: [40, -20, 20], color: 0xFF6666, size: 5, name: "Archons" },  // Crimson
+            { pos: [-20, -30, -20], color: 0x66CC66, size: 6, name: "Root" }    // Emerald
+        ];
+
+        const superNodeMeshes = [];
+        const sphereGeo = new THREE.SphereGeometry(1, 32, 32);
+
+        superNodesData.forEach(data => {
+            const mat = createGlowMaterial(data.color);
+            const mesh = new THREE.Mesh(sphereGeo, mat);
+            mesh.scale.set(data.size, data.size, data.size);
+            mesh.position.set(...data.pos);
+            
+            // Add a larger, fainter glow aura
+            const auraMat = new THREE.MeshBasicMaterial({ color: data.color, transparent: true, opacity: 0.15, blending: THREE.AdditiveBlending });
+            const aura = new THREE.Mesh(sphereGeo, auraMat);
+            aura.scale.set(data.size * 2, data.size * 2, data.size * 2);
+            mesh.add(aura);
+
+            networkGroup.add(mesh);
+            superNodeMeshes.push(mesh);
+        });
+
+        // 2. Create Satellite Particles (Floating Phrases/Concepts)
+        const particleCount = 150;
+        const particlesGeo = new THREE.BufferGeometry();
+        const particlePositions = new Float32Array(particleCount * 3);
+        const particleVelocities = [];
+
+        for (let i = 0; i < particleCount * 3; i += 3) {
+            // Spread particles across the space
+            particlePositions[i] = (Math.random() - 0.5) * 200;     // x
+            particlePositions[i+1] = (Math.random() - 0.5) * 150;   // y
+            particlePositions[i+2] = (Math.random() - 0.5) * 100;   // z
+
+            // Give them random float velocities for the antigravity effect
+            particleVelocities.push({
+                x: (Math.random() - 0.5) * 0.05,
+                y: (Math.random() - 0.5) * 0.05 + 0.02, // slight upward tendency
+                z: (Math.random() - 0.5) * 0.05
+            });
+        }
+
+        particlesGeo.setAttribute('position', new THREE.BufferAttribute(particlePositions, 3));
+        
+        const particleMat = new THREE.PointsMaterial({
+            color: 0x888888,
+            size: 1.5,
+            transparent: true,
+            opacity: 0.6
+        });
+
+        const particleSystem = new THREE.Points(particlesGeo, particleMat);
+        networkGroup.add(particleSystem);
+
+        // 3. Create Connecting Lines (Topology Edges)
+        const lineMat = new THREE.LineBasicMaterial({ color: 0x444455, transparent: true, opacity: 0.2 });
+        // We will update lines dynamically in the render loop based on proximity
+
+        // Mouse interaction for parallax effect
+        let mouseX = 0;
+        let mouseY = 0;
+        let targetX = 0;
+        let targetY = 0;
+        const windowHalfX = window.innerWidth / 2;
+        const windowHalfY = window.innerHeight / 2;
+
+        document.addEventListener('mousemove', (event) => {
+            mouseX = (event.clientX - windowHalfX) * 0.05;
+            mouseY = (event.clientY - windowHalfY) * 0.05;
+        });
+
+        // Resize handler
+        window.addEventListener('resize', () => {
+            camera.aspect = window.innerWidth / window.innerHeight;
+            camera.updateProjectionMatrix();
+            renderer.setSize(window.innerWidth, window.innerHeight);
+        });
+
+        // Dynamic lines geometry container
+        let linesMesh;
+
+        // Render Loop
+        const clock = new THREE.Clock();
+
+        function animate() {
+            requestAnimationFrame(animate);
+            const time = clock.getElapsedTime();
+
+            // Smooth parallax camera movement
+            targetX = mouseX * 0.5;
+            targetY = mouseY * 0.5;
+            camera.position.x += (targetX - camera.position.x) * 0.05;
+            camera.position.y += (-targetY - camera.position.y) * 0.05;
+            camera.lookAt(scene.position);
+
+            // Antigravity slow rotation of the entire network
+            networkGroup.rotation.y = time * 0.05;
+            networkGroup.rotation.z = time * 0.02;
+
+            // Make Super Nodes breathe (pulse size slightly)
+            superNodeMeshes.forEach((mesh, idx) => {
+                const scale = superNodesData[idx].size + Math.sin(time * 2 + idx) * 0.3;
+                mesh.scale.set(scale, scale, scale);
+                // Also give them independent slight floating
+                mesh.position.y = superNodesData[idx].pos[1] + Math.sin(time + idx) * 5;
+            });
+
+            // Update particle positions (floating)
+            const positions = particleSystem.geometry.attributes.position.array;
+            
+            // Rebuild lines based on proximity
+            const linePositions = [];
+
+            for (let i = 0; i < particleCount; i++) {
+                let px = positions[i * 3];
+                let py = positions[i * 3 + 1];
+                let pz = positions[i * 3 + 2];
+
+                // Apply velocity
+                px += particleVelocities[i].x;
+                py += particleVelocities[i].y;
+                pz += particleVelocities[i].z;
+
+                // Bounce off invisible boundaries to keep them on screen
+                if(px < -100 || px > 100) particleVelocities[i].x *= -1;
+                if(py < -80 || py > 80) particleVelocities[i].y *= -1;
+                if(pz < -50 || pz > 50) particleVelocities[i].z *= -1;
+
+                positions[i * 3] = px;
+                positions[i * 3 + 1] = py;
+                positions[i * 3 + 2] = pz;
+
+                // Calculate distance to Super Nodes to draw topological connections
+                superNodeMeshes.forEach(superNode => {
+                    const dx = px - superNode.position.x;
+                    const dy = py - superNode.position.y;
+                    const dz = pz - superNode.position.z;
+                    const distSq = dx*dx + dy*dy + dz*dz;
+
+                    // Connect if close enough
+                    if (distSq < 1500) {
+                        linePositions.push(px, py, pz);
+                        linePositions.push(superNode.position.x, superNode.position.y, superNode.position.z);
+                    }
+                });
+            }
+
+            particleSystem.geometry.attributes.position.needsUpdate = true;
+
+            // Update Line Geometry
+            if (linesMesh) {
+                networkGroup.remove(linesMesh);
+                linesMesh.geometry.dispose();
+            }
+            
+            if (linePositions.length > 0) {
+                const lineGeo = new THREE.BufferGeometry();
+                lineGeo.setAttribute('position', new THREE.Float32BufferAttribute(linePositions, 3));
+                linesMesh = new THREE.LineSegments(lineGeo, lineMat);
+                networkGroup.add(linesMesh);
+            }
+
+            renderer.render(scene, camera);
+        }
+
+        // Start animation
+        animate();
+    </script>
+</body>
+</html>
