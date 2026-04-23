@@ -83,9 +83,9 @@ If you use this code, dataset, or methodology in your research, please cite the 
 
 @article{universal_topology_2024,  
 title={The Algorithm of Emptiness: Dissolving Matter in the Gospel of Mary, Eastern Mysticism, and Computational Theology},  
-author={\[Your Name\]},  
+author={]},  
 journal={Pending Publication},  
-year={2024}  
+year={2026}  
 }
 
 ## 📄 License
