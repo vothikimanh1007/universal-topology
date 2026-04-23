@@ -1,0 +1,1201 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d0" for="edge" attr.name="weight" attr.type="long"/>
+<graph edgedefault="undirected"><node id="ROOT_ACCESS"/>
+<node id="MIND_CONCEPT"/>
+<node id="MATTER_CONCEPT"/>
+<node id="IGNORANCE_PRIOR"/>
+<node id="lao tzu"/>
+<node id="modern interpretation"/>
+<node id="text modern"/>
+<node id="ching original"/>
+<node id="original text"/>
+<node id="heaven earth"/>
+<node id="tzu bible"/>
+<node id="refer lao"/>
+<node id="please refer"/>
+<node id="bible part"/>
+<node id="interpretation highest"/>
+<node id="enabling people"/>
+<node id="people return"/>
+<node id="effort"/>
+<node id="limbs nine"/>
+<node id="nine apertures"/>
+<node id="four limbs"/>
+<node id="interpretation people"/>
+<node id="die gnostischen"/>
+<node id="schenke die"/>
+<node id="gnostischen schriften"/>
+<node id="till schenke"/>
+<node id="gospels oral"/>
+<node id="written gospels"/>
+<node id="gnostisches originalwerk"/>
+<node id="vorirenaeisches gnostisches"/>
+<node id="ein vorirenaeisches"/>
+<node id="jjnostischen schriften"/>
+<node id="die jjnostischen"/>
+<node id="see till"/>
+<node id="gospel mary"/>
+<node id="mark luke"/>
+<node id="matt mark"/>
+<node id="luke acts"/>
+<node id="die zweite"/>
+<node id="zweite lehre"/>
+<node id="hartenstein die"/>
+<node id="perkins gnostic"/>
+<node id="see perkins"/>
+<node id="gnostic dialogue"/>
+<node id="ancient christian"/>
+<node id="koester ancient"/>
+<node id="christian gospels"/>
+<node id="koester robinson"/>
+<node id="koester trajectories"/>
+<node id="robinson koester"/>
+<node id="new testament"/>
+<node id="see king"/>
+<node id="see wilson"/>
+<node id="wilson new"/>
+<node id="cairns collected"/>
+<node id="collected dialogues"/>
+<node id="theaetetus cited"/>
+<node id="hamilton cairns"/>
+<node id="cited hamilton"/>
+<node id="pasquier vangile"/>
+<node id="vangile selon"/>
+<node id="selon marie"/>
+<node id="see pasquier"/>
+<node id="pasquier evangile"/>
+<node id="evangile selon"/>
+<node id="corinthian women"/>
+<node id="women prophets"/>
+<node id="women authority"/>
+<node id="king prophetic"/>
+<node id="god self-confident"/>
+<node id="jensen god"/>
+<node id="self-confident daughters"/>
+<node id="koester written"/>
+<node id="oral tradition"/>
+<node id="commentary greek"/>
+<node id="textual commentary"/>
+<node id="greek new"/>
+<node id="mary magdalene"/>
+<node id="resurrection mary"/>
+<node id="schaberg resurrection"/>
+<node id="boer mary"/>
+<node id="magdalene boer"/>
+<node id="ricci mary"/>
+<node id="acts jesus"/>
+<node id="marjanen woman"/>
+<node id="woman jesus"/>
+<node id="jesus loved"/>
+<node id="see brock"/>
+<node id="petersen zerstort"/>
+<node id="werke der"/>
+<node id="zerstort die"/>
+<node id="die werke"/>
+<node id="der wieblichkeit"/>
+<node id="apostolorum apostola"/>
+<node id="magdalena apostolorum"/>
+<node id="maria magdalena"/>
+<node id="jansen maria"/>
+<node id="brock mary"/>
+<node id="appearance apostolic"/>
+<node id="visions appearance"/>
+<node id="apostolic authority"/>
+<node id="wire corinthian"/>
+<node id="nag hammadi"/>
+<node id="near nag"/>
+<node id="existing copy"/>
+<node id="found near"/>
+<node id="copy found"/>
+<node id="fortress press"/>
+<node id="cambridge harvard"/>
+<node id="harvard university"/>
+<node id="university press"/>
+<node id="early christian"/>
+<node id="marys early"/>
+<node id="christian tradition"/>
+<node id="biblical literature"/>
+<node id="society biblical"/>
+<node id="atlanta society"/>
+<node id="new york"/>
+<node id="paulist press"/>
+<node id="york paulist"/>
+<node id="reallexikon fur"/>
+<node id="und christentum"/>
+<node id="antike und"/>
+<node id="fur antike"/>
+<node id="francisco harper"/>
+<node id="harper collins"/>
+<node id="san francisco"/>
+<node id="harper row"/>
+<node id="oxford oxford"/>
+<node id="oxford university"/>
+<node id="hammadi manichaean"/>
+<node id="manichaean studies"/>
+<node id="millennia christianity"/>
+<node id="preachers prophets"/>
+<node id="two millennia"/>
+<node id="women preachers"/>
+<node id="prophets two"/>
+<node id="beverly mayne"/>
+<node id="pamela walker"/>
+<node id="kienzle pamela"/>
+<node id="mayne kienzle"/>
+<node id="california press"/>
+<node id="university california"/>
+<node id="berkeley university"/>
+<node id="john knox"/>
+<node id="westminster john"/>
+<node id="knox press"/>
+<node id="louisville westminster"/>
+<node id="new london"/>
+<node id="yale university"/>
+<node id="london yale"/>
+<node id="codices papyrus"/>
+<node id="hammadi codices"/>
+<edge source="ROOT_ACCESS" target="MIND_CONCEPT">
+  <data key="d0">28</data>
+  <data key="d1">Prajnaparamita-:3, Tao Te Ching Pr:22, short)King K:3</data>
+</edge>
+<edge source="ROOT_ACCESS" target="MATTER_CONCEPT">
+  <data key="d0">28</data>
+  <data key="d1">Prajnaparamita-:3, Tao Te Ching Pr:22, short)King K:3</data>
+</edge>
+<edge source="ROOT_ACCESS" target="IGNORANCE_PRIOR">
+  <data key="d0">10</data>
+  <data key="d1">Prajnaparamita-:2, Tao Te Ching Pr:8</data>
+</edge>
+<edge source="ROOT_ACCESS" target="lao tzu">
+  <data key="d0">18</data>
+  <data key="d1">Tao Te Ching Pr:18</data>
+</edge>
+<edge source="ROOT_ACCESS" target="heaven earth">
+  <data key="d0">4</data>
+  <data key="d1">Tao Te Ching Pr:4</data>
+</edge>
+<edge source="ROOT_ACCESS" target="modern interpretation">
+  <data key="d0">81</data>
+  <data key="d1">Tao Te Ching Pr:81</data>
+</edge>
+<edge source="ROOT_ACCESS" target="text modern">
+  <data key="d0">81</data>
+  <data key="d1">Tao Te Ching Pr:81</data>
+</edge>
+<edge source="ROOT_ACCESS" target="ching original">
+  <data key="d0">81</data>
+  <data key="d1">Tao Te Ching Pr:81</data>
+</edge>
+<edge source="ROOT_ACCESS" target="original text">
+  <data key="d0">82</data>
+  <data key="d1">Tao Te Ching Pr:82</data>
+</edge>
+<edge source="ROOT_ACCESS" target="tzu bible">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr:3</data>
+</edge>
+<edge source="ROOT_ACCESS" target="interpretation highest">
+  <data key="d0">4</data>
+  <data key="d1">Tao Te Ching Pr:4</data>
+</edge>
+<edge source="ROOT_ACCESS" target="interpretation people">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr:3</data>
+</edge>
+<edge source="ROOT_ACCESS" target="new testament">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="MIND_CONCEPT" target="MATTER_CONCEPT">
+  <data key="d0">25</data>
+  <data key="d1">Prajnaparamita-:2, Tao Te Ching Pr:9, short)King K:14</data>
+</edge>
+<edge source="MIND_CONCEPT" target="IGNORANCE_PRIOR">
+  <data key="d0">7</data>
+  <data key="d1">Prajnaparamita-:1, Tao Te Ching Pr:2, short)King K:4</data>
+</edge>
+<edge source="MIND_CONCEPT" target="lao tzu">
+  <data key="d0">4</data>
+  <data key="d1">Tao Te Ching Pr:4</data>
+</edge>
+<edge source="MIND_CONCEPT" target="original text">
+  <data key="d0">8</data>
+  <data key="d1">Tao Te Ching Pr:8</data>
+</edge>
+<edge source="MIND_CONCEPT" target="modern interpretation">
+  <data key="d0">7</data>
+  <data key="d1">Tao Te Ching Pr:7</data>
+</edge>
+<edge source="MIND_CONCEPT" target="text modern">
+  <data key="d0">7</data>
+  <data key="d1">Tao Te Ching Pr:7</data>
+</edge>
+<edge source="MIND_CONCEPT" target="ching original">
+  <data key="d0">7</data>
+  <data key="d1">Tao Te Ching Pr:7</data>
+</edge>
+<edge source="MIND_CONCEPT" target="effort">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr:3</data>
+</edge>
+<edge source="MIND_CONCEPT" target="gospel mary">
+  <data key="d0">8</data>
+  <data key="d1">short)King K:8</data>
+</edge>
+<edge source="MIND_CONCEPT" target="mary magdalene">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="MATTER_CONCEPT" target="IGNORANCE_PRIOR">
+  <data key="d0">10</data>
+  <data key="d1">Prajnaparamita-:1, Tao Te Ching Pr:2, short)King K:7</data>
+</edge>
+<edge source="MATTER_CONCEPT" target="original text">
+  <data key="d0">14</data>
+  <data key="d1">Tao Te Ching Pr:14</data>
+</edge>
+<edge source="MATTER_CONCEPT" target="modern interpretation">
+  <data key="d0">14</data>
+  <data key="d1">Tao Te Ching Pr:14</data>
+</edge>
+<edge source="MATTER_CONCEPT" target="text modern">
+  <data key="d0">14</data>
+  <data key="d1">Tao Te Ching Pr:14</data>
+</edge>
+<edge source="MATTER_CONCEPT" target="ching original">
+  <data key="d0">14</data>
+  <data key="d1">Tao Te Ching Pr:14</data>
+</edge>
+<edge source="MATTER_CONCEPT" target="enabling people">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr:3</data>
+</edge>
+<edge source="MATTER_CONCEPT" target="people return">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr:3</data>
+</edge>
+<edge source="MATTER_CONCEPT" target="effort">
+  <data key="d0">4</data>
+  <data key="d1">Tao Te Ching Pr:4</data>
+</edge>
+<edge source="MATTER_CONCEPT" target="gospel mary">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="MATTER_CONCEPT" target="new testament">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="IGNORANCE_PRIOR" target="original text">
+  <data key="d0">4</data>
+  <data key="d1">Tao Te Ching Pr:4</data>
+</edge>
+<edge source="IGNORANCE_PRIOR" target="modern interpretation">
+  <data key="d0">4</data>
+  <data key="d1">Tao Te Ching Pr:4</data>
+</edge>
+<edge source="IGNORANCE_PRIOR" target="text modern">
+  <data key="d0">4</data>
+  <data key="d1">Tao Te Ching Pr:4</data>
+</edge>
+<edge source="IGNORANCE_PRIOR" target="ching original">
+  <data key="d0">4</data>
+  <data key="d1">Tao Te Ching Pr:4</data>
+</edge>
+<edge source="IGNORANCE_PRIOR" target="gospel mary">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="IGNORANCE_PRIOR" target="women authority">
+  <data key="d0">5</data>
+  <data key="d1">short)King K:5</data>
+</edge>
+<edge source="IGNORANCE_PRIOR" target="see king">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="IGNORANCE_PRIOR" target="king prophetic">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="lao tzu" target="modern interpretation">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr:3</data>
+</edge>
+<edge source="lao tzu" target="text modern">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr:3</data>
+</edge>
+<edge source="lao tzu" target="ching original">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr:3</data>
+</edge>
+<edge source="lao tzu" target="original text">
+  <data key="d0">4</data>
+  <data key="d1">Tao Te Ching Pr:4</data>
+</edge>
+<edge source="lao tzu" target="tzu bible">
+  <data key="d0">6</data>
+  <data key="d1">Tao Te Ching Pr:6</data>
+</edge>
+<edge source="lao tzu" target="refer lao">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr:3</data>
+</edge>
+<edge source="lao tzu" target="please refer">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr:3</data>
+</edge>
+<edge source="lao tzu" target="bible part">
+  <data key="d0">4</data>
+  <data key="d1">Tao Te Ching Pr:4</data>
+</edge>
+<edge source="modern interpretation" target="heaven earth">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr:3</data>
+</edge>
+<edge source="modern interpretation" target="text modern">
+  <data key="d0">81</data>
+  <data key="d1">Tao Te Ching Pr:81</data>
+</edge>
+<edge source="modern interpretation" target="ching original">
+  <data key="d0">81</data>
+  <data key="d1">Tao Te Ching Pr:81</data>
+</edge>
+<edge source="modern interpretation" target="original text">
+  <data key="d0">81</data>
+  <data key="d1">Tao Te Ching Pr:81</data>
+</edge>
+<edge source="modern interpretation" target="interpretation highest">
+  <data key="d0">4</data>
+  <data key="d1">Tao Te Ching Pr:4</data>
+</edge>
+<edge source="modern interpretation" target="interpretation people">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr:3</data>
+</edge>
+<edge source="text modern" target="heaven earth">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr:3</data>
+</edge>
+<edge source="text modern" target="ching original">
+  <data key="d0">81</data>
+  <data key="d1">Tao Te Ching Pr:81</data>
+</edge>
+<edge source="text modern" target="original text">
+  <data key="d0">81</data>
+  <data key="d1">Tao Te Ching Pr:81</data>
+</edge>
+<edge source="text modern" target="interpretation highest">
+  <data key="d0">4</data>
+  <data key="d1">Tao Te Ching Pr:4</data>
+</edge>
+<edge source="text modern" target="interpretation people">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr:3</data>
+</edge>
+<edge source="ching original" target="heaven earth">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr:3</data>
+</edge>
+<edge source="ching original" target="original text">
+  <data key="d0">81</data>
+  <data key="d1">Tao Te Ching Pr:81</data>
+</edge>
+<edge source="ching original" target="interpretation highest">
+  <data key="d0">4</data>
+  <data key="d1">Tao Te Ching Pr:4</data>
+</edge>
+<edge source="ching original" target="interpretation people">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr:3</data>
+</edge>
+<edge source="original text" target="heaven earth">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr:3</data>
+</edge>
+<edge source="original text" target="interpretation highest">
+  <data key="d0">4</data>
+  <data key="d1">Tao Te Ching Pr:4</data>
+</edge>
+<edge source="original text" target="interpretation people">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr:3</data>
+</edge>
+<edge source="tzu bible" target="refer lao">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr:3</data>
+</edge>
+<edge source="tzu bible" target="please refer">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr:3</data>
+</edge>
+<edge source="tzu bible" target="bible part">
+  <data key="d0">4</data>
+  <data key="d1">Tao Te Ching Pr:4</data>
+</edge>
+<edge source="refer lao" target="please refer">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr:3</data>
+</edge>
+<edge source="enabling people" target="people return">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr:3</data>
+</edge>
+<edge source="limbs nine" target="nine apertures">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr:3</data>
+</edge>
+<edge source="limbs nine" target="four limbs">
+  <data key="d0">4</data>
+  <data key="d1">Tao Te Ching Pr:4</data>
+</edge>
+<edge source="nine apertures" target="four limbs">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr:3</data>
+</edge>
+<edge source="die gnostischen" target="schenke die">
+  <data key="d0">8</data>
+  <data key="d1">short)King K:8</data>
+</edge>
+<edge source="die gnostischen" target="gnostischen schriften">
+  <data key="d0">8</data>
+  <data key="d1">short)King K:8</data>
+</edge>
+<edge source="die gnostischen" target="till schenke">
+  <data key="d0">7</data>
+  <data key="d1">short)King K:7</data>
+</edge>
+<edge source="die gnostischen" target="see till">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="schenke die" target="gnostischen schriften">
+  <data key="d0">8</data>
+  <data key="d1">short)King K:8</data>
+</edge>
+<edge source="schenke die" target="till schenke">
+  <data key="d0">11</data>
+  <data key="d1">short)King K:11</data>
+</edge>
+<edge source="schenke die" target="jjnostischen schriften">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="schenke die" target="die jjnostischen">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="schenke die" target="see till">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="gnostischen schriften" target="till schenke">
+  <data key="d0">7</data>
+  <data key="d1">short)King K:7</data>
+</edge>
+<edge source="gnostischen schriften" target="see till">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="till schenke" target="jjnostischen schriften">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="till schenke" target="die jjnostischen">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="till schenke" target="see till">
+  <data key="d0">5</data>
+  <data key="d1">short)King K:5</data>
+</edge>
+<edge source="gospels oral" target="written gospels">
+  <data key="d0">5</data>
+  <data key="d1">short)King K:5</data>
+</edge>
+<edge source="gospels oral" target="koester written">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="gospels oral" target="oral tradition">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="written gospels" target="koester written">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="written gospels" target="oral tradition">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="gnostisches originalwerk" target="vorirenaeisches gnostisches">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="gnostisches originalwerk" target="ein vorirenaeisches">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="vorirenaeisches gnostisches" target="ein vorirenaeisches">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="jjnostischen schriften" target="die jjnostischen">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="gospel mary" target="new testament">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="gospel mary" target="mary magdalene">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="mark luke" target="matt mark">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="mark luke" target="luke acts">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="matt mark" target="luke acts">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="die zweite" target="zweite lehre">
+  <data key="d0">10</data>
+  <data key="d1">short)King K:10</data>
+</edge>
+<edge source="die zweite" target="hartenstein die">
+  <data key="d0">9</data>
+  <data key="d1">short)King K:9</data>
+</edge>
+<edge source="zweite lehre" target="hartenstein die">
+  <data key="d0">9</data>
+  <data key="d1">short)King K:9</data>
+</edge>
+<edge source="perkins gnostic" target="see perkins">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="perkins gnostic" target="gnostic dialogue">
+  <data key="d0">6</data>
+  <data key="d1">short)King K:6</data>
+</edge>
+<edge source="see perkins" target="gnostic dialogue">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="ancient christian" target="koester ancient">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="ancient christian" target="christian gospels">
+  <data key="d0">8</data>
+  <data key="d1">short)King K:8</data>
+</edge>
+<edge source="koester ancient" target="christian gospels">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="koester robinson" target="koester trajectories">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="koester robinson" target="robinson koester">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="koester trajectories" target="robinson koester">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="new testament" target="see wilson">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="new testament" target="wilson new">
+  <data key="d0">6</data>
+  <data key="d1">short)King K:6</data>
+</edge>
+<edge source="new testament" target="textual commentary">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="new testament" target="commentary greek">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="new testament" target="greek new">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="see king" target="women authority">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="see king" target="king prophetic">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="see wilson" target="wilson new">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="cairns collected" target="collected dialogues">
+  <data key="d0">5</data>
+  <data key="d1">short)King K:5</data>
+</edge>
+<edge source="cairns collected" target="theaetetus cited">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="cairns collected" target="hamilton cairns">
+  <data key="d0">5</data>
+  <data key="d1">short)King K:5</data>
+</edge>
+<edge source="cairns collected" target="cited hamilton">
+  <data key="d0">5</data>
+  <data key="d1">short)King K:5</data>
+</edge>
+<edge source="collected dialogues" target="theaetetus cited">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="collected dialogues" target="hamilton cairns">
+  <data key="d0">5</data>
+  <data key="d1">short)King K:5</data>
+</edge>
+<edge source="collected dialogues" target="cited hamilton">
+  <data key="d0">5</data>
+  <data key="d1">short)King K:5</data>
+</edge>
+<edge source="theaetetus cited" target="hamilton cairns">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="theaetetus cited" target="cited hamilton">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="hamilton cairns" target="cited hamilton">
+  <data key="d0">5</data>
+  <data key="d1">short)King K:5</data>
+</edge>
+<edge source="pasquier vangile" target="vangile selon">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="pasquier vangile" target="selon marie">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="vangile selon" target="selon marie">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="selon marie" target="see pasquier">
+  <data key="d0">5</data>
+  <data key="d1">short)King K:5</data>
+</edge>
+<edge source="selon marie" target="pasquier evangile">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="selon marie" target="evangile selon">
+  <data key="d0">10</data>
+  <data key="d1">short)King K:10</data>
+</edge>
+<edge source="see pasquier" target="pasquier evangile">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="see pasquier" target="evangile selon">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="pasquier evangile" target="evangile selon">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="corinthian women" target="women prophets">
+  <data key="d0">5</data>
+  <data key="d1">short)King K:5</data>
+</edge>
+<edge source="corinthian women" target="wire corinthian">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="women prophets" target="wire corinthian">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="women authority" target="king prophetic">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="god self-confident" target="jensen god">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="god self-confident" target="self-confident daughters">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="jensen god" target="self-confident daughters">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="koester written" target="oral tradition">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="commentary greek" target="textual commentary">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="commentary greek" target="greek new">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="textual commentary" target="greek new">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="mary magdalene" target="schaberg resurrection">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="mary magdalene" target="resurrection mary">
+  <data key="d0">11</data>
+  <data key="d1">short)King K:11</data>
+</edge>
+<edge source="mary magdalene" target="boer mary">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="mary magdalene" target="magdalene boer">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="mary magdalene" target="ricci mary">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="mary magdalene" target="woman jesus">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="mary magdalene" target="marjanen woman">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="mary magdalene" target="jesus loved">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="mary magdalene" target="see brock">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="mary magdalene" target="brock mary">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="resurrection mary" target="schaberg resurrection">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="boer mary" target="magdalene boer">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="boer mary" target="ricci mary">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="marjanen woman" target="woman jesus">
+  <data key="d0">5</data>
+  <data key="d1">short)King K:5</data>
+</edge>
+<edge source="marjanen woman" target="jesus loved">
+  <data key="d0">5</data>
+  <data key="d1">short)King K:5</data>
+</edge>
+<edge source="woman jesus" target="jesus loved">
+  <data key="d0">9</data>
+  <data key="d1">short)King K:9</data>
+</edge>
+<edge source="see brock" target="brock mary">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="petersen zerstort" target="werke der">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="petersen zerstort" target="zerstort die">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="petersen zerstort" target="die werke">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="werke der" target="der wieblichkeit">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="werke der" target="zerstort die">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="werke der" target="die werke">
+  <data key="d0">5</data>
+  <data key="d1">short)King K:5</data>
+</edge>
+<edge source="zerstort die" target="die werke">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="die werke" target="der wieblichkeit">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="apostolorum apostola" target="magdalena apostolorum">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="apostolorum apostola" target="maria magdalena">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="apostolorum apostola" target="jansen maria">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="magdalena apostolorum" target="maria magdalena">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="magdalena apostolorum" target="jansen maria">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="maria magdalena" target="jansen maria">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="appearance apostolic" target="visions appearance">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="appearance apostolic" target="apostolic authority">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="visions appearance" target="apostolic authority">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="nag hammadi" target="near nag">
+  <data key="d0">13</data>
+  <data key="d1">short)King K:13</data>
+</edge>
+<edge source="nag hammadi" target="existing copy">
+  <data key="d0">6</data>
+  <data key="d1">short)King K:6</data>
+</edge>
+<edge source="nag hammadi" target="found near">
+  <data key="d0">11</data>
+  <data key="d1">short)King K:11</data>
+</edge>
+<edge source="nag hammadi" target="copy found">
+  <data key="d0">6</data>
+  <data key="d1">short)King K:6</data>
+</edge>
+<edge source="nag hammadi" target="hammadi manichaean">
+  <data key="d0">5</data>
+  <data key="d1">short)King K:5</data>
+</edge>
+<edge source="nag hammadi" target="manichaean studies">
+  <data key="d0">5</data>
+  <data key="d1">short)King K:5</data>
+</edge>
+<edge source="nag hammadi" target="codices papyrus">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="nag hammadi" target="hammadi codices">
+  <data key="d0">5</data>
+  <data key="d1">short)King K:5</data>
+</edge>
+<edge source="near nag" target="existing copy">
+  <data key="d0">6</data>
+  <data key="d1">short)King K:6</data>
+</edge>
+<edge source="near nag" target="found near">
+  <data key="d0">11</data>
+  <data key="d1">short)King K:11</data>
+</edge>
+<edge source="near nag" target="copy found">
+  <data key="d0">6</data>
+  <data key="d1">short)King K:6</data>
+</edge>
+<edge source="existing copy" target="found near">
+  <data key="d0">6</data>
+  <data key="d1">short)King K:6</data>
+</edge>
+<edge source="existing copy" target="copy found">
+  <data key="d0">5</data>
+  <data key="d1">short)King K:5</data>
+</edge>
+<edge source="found near" target="copy found">
+  <data key="d0">6</data>
+  <data key="d1">short)King K:6</data>
+</edge>
+<edge source="cambridge harvard" target="harvard university">
+  <data key="d0">10</data>
+  <data key="d1">short)King K:10</data>
+</edge>
+<edge source="cambridge harvard" target="university press">
+  <data key="d0">10</data>
+  <data key="d1">short)King K:10</data>
+</edge>
+<edge source="harvard university" target="university press">
+  <data key="d0">10</data>
+  <data key="d1">short)King K:10</data>
+</edge>
+<edge source="university press" target="oxford oxford">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="university press" target="new york">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="university press" target="oxford university">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="university press" target="yale university">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="university press" target="new london">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="university press" target="london yale">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="early christian" target="marys early">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="early christian" target="christian tradition">
+  <data key="d0">5</data>
+  <data key="d1">short)King K:5</data>
+</edge>
+<edge source="marys early" target="christian tradition">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="biblical literature" target="society biblical">
+  <data key="d0">7</data>
+  <data key="d1">short)King K:7</data>
+</edge>
+<edge source="biblical literature" target="atlanta society">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="society biblical" target="atlanta society">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="new york" target="paulist press">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="new york" target="york paulist">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="paulist press" target="york paulist">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="reallexikon fur" target="und christentum">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="reallexikon fur" target="antike und">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="reallexikon fur" target="fur antike">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="und christentum" target="antike und">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="und christentum" target="fur antike">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="antike und" target="fur antike">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="francisco harper" target="harper collins">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="francisco harper" target="san francisco">
+  <data key="d0">9</data>
+  <data key="d1">short)King K:9</data>
+</edge>
+<edge source="francisco harper" target="harper row">
+  <data key="d0">5</data>
+  <data key="d1">short)King K:5</data>
+</edge>
+<edge source="harper collins" target="san francisco">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="san francisco" target="harper row">
+  <data key="d0">5</data>
+  <data key="d1">short)King K:5</data>
+</edge>
+<edge source="oxford oxford" target="oxford university">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="hammadi manichaean" target="manichaean studies">
+  <data key="d0">5</data>
+  <data key="d1">short)King K:5</data>
+</edge>
+<edge source="millennia christianity" target="preachers prophets">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="millennia christianity" target="two millennia">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="millennia christianity" target="women preachers">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="millennia christianity" target="prophets two">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="preachers prophets" target="two millennia">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="preachers prophets" target="women preachers">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="preachers prophets" target="prophets two">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="two millennia" target="women preachers">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="two millennia" target="prophets two">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="women preachers" target="prophets two">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="beverly mayne" target="pamela walker">
+  <data key="d0">4</data>
+  <data key="d1">short)King K:4</data>
+</edge>
+<edge source="beverly mayne" target="kienzle pamela">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="beverly mayne" target="mayne kienzle">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="pamela walker" target="kienzle pamela">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="pamela walker" target="mayne kienzle">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="kienzle pamela" target="mayne kienzle">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="california press" target="university california">
+  <data key="d0">5</data>
+  <data key="d1">short)King K:5</data>
+</edge>
+<edge source="california press" target="berkeley university">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="university california" target="berkeley university">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="john knox" target="westminster john">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="john knox" target="knox press">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="john knox" target="louisville westminster">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="westminster john" target="knox press">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="westminster john" target="louisville westminster">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="knox press" target="louisville westminster">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="new london" target="yale university">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="new london" target="london yale">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="yale university" target="london yale">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+<edge source="codices papyrus" target="hammadi codices">
+  <data key="d0">3</data>
+  <data key="d1">short)King K:3</data>
+</edge>
+</graph></graphml>

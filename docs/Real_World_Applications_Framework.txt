@@ -1,0 +1,18 @@
+
+================================================================================
+REAL-WORLD APPLICATIONS FRAMEWORK & XAI VISUALIZATION
+================================================================================
+[... Previous I to IV points included ...]
+
+V. EXPLAINABLE AI (XAI) FOR THEOLOGICAL CLASSIFICATION
+--------------------------------------------------------------------------------
+Problem: Black-box AI models cannot explain *why* they associate certain religious or 
+philosophical texts together. 
+Application: 
+As demonstrated in Figure 6 (XAI Trajectory Analysis), this framework provides full 
+computational transparency. By feeding the model a synthetic sentence mapping multiple 
+traditions (e.g., combining "five skandhas" with "great tao"), the algorithm generates a 
+traceable directed graph (DiGraph) overlaying the global topology. This proves the system 
+understands the semantic geometry of "Liberation" and can visually explain its 
+inference logic to theologians and researchers.
+================================================================================

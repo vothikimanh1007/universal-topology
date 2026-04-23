@@ -1,0 +1,1369 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="source" attr.type="string"/>
+<key id="d0" for="edge" attr.name="weight" attr.type="long"/>
+<graph edgedefault="undirected"><node id="MIND_CONCEPT"/>
+<node id="ROOT_ACCESS"/>
+<node id="MATTER_CONCEPT"/>
+<node id="IGNORANCE_PRIOR"/>
+<node id="interpretation yuan"/>
+<node id="yuan zhiming"/>
+<node id="chen shangyu"/>
+<node id="modern interpretation"/>
+<node id="text modern"/>
+<node id="ching original"/>
+<node id="daniel baida"/>
+<node id="translation daniel"/>
+<node id="original text"/>
+<node id="baida chen"/>
+<node id="zhiming english"/>
+<node id="english translation"/>
+<node id="chinese language"/>
+<node id="lao tzu"/>
+<node id="heaven earth"/>
+<node id="original intention"/>
+<node id="tzu original"/>
+<node id="zhuang tzu"/>
+<node id="tzu bible"/>
+<node id="chen guyin"/>
+<node id="ren jiyu"/>
+<node id="jiyu chen"/>
+<node id="shang gong"/>
+<node id="feng dapu"/>
+<node id="wang shang"/>
+<node id="shang shu"/>
+<node id="refer lao"/>
+<node id="please refer"/>
+<node id="interpretation everyone"/>
+<node id="claims credit"/>
+<node id="yet claims"/>
+<node id="-to-find treasures"/>
+<node id="hard -to-find"/>
+<node id="come"/>
+<node id="discussion please"/>
+<node id="bible part"/>
+<node id="regard benevolence"/>
+<node id="straw dogs"/>
+<node id="interpretation highest"/>
+<node id="ruling state"/>
+<node id="creator sustainer"/>
+<node id="overvalue physical"/>
+<node id="physical life"/>
+<node id="beneath"/>
+<node id="coming going"/>
+<node id="ancient followers"/>
+<node id="follow"/>
+<node id="heaven like"/>
+<node id="know eternity"/>
+<node id="due lack"/>
+<node id="lack faith"/>
+<node id="distrust due"/>
+<node id="filial piety"/>
+<node id="piety compassion"/>
+<node id="like newborn"/>
+<node id="newborn infant"/>
+<node id="alone see"/>
+<node id="worldly people"/>
+<node id="identify loss"/>
+<node id="interpretation good"/>
+<node id="people abandoned"/>
+<node id="saving people"/>
+<node id="good saving"/>
+<node id="kind teacher"/>
+<node id="teacher unkind"/>
+<node id="unkind unkind"/>
+<node id="thus becomes"/>
+<node id="enabling people"/>
+<node id="people return"/>
+<node id="eternal virtue"/>
+<node id="virtue enabling"/>
+<node id="know heaven"/>
+<node id="effort"/>
+<node id="arms instruments"/>
+<node id="instruments ill"/>
+<node id="ill omen"/>
+<node id="see victory"/>
+<node id="something good"/>
+<node id="victory something"/>
+<node id="killing people"/>
+<node id="pleasure killing"/>
+<node id="whole"/>
+<node id="hard strong"/>
+<node id="soft weak"/>
+<node id="overcome hard"/>
+<node id="weak overcome"/>
+<node id="high morality"/>
+<node id="low morality"/>
+<node id="ulterior motive"/>
+<node id="chosen discarded"/>
+<node id="thus chosen"/>
+<node id="orphaned widowed"/>
+<node id="widowed hapless"/>
+<node id="lords princes"/>
+<node id="name substance"/>
+<node id="part two"/>
+<node id="see lao"/>
+<node id="two section"/>
+<node id="benefits making"/>
+<node id="making effort"/>
+<node id="come know"/>
+<node id="limbs nine"/>
+<node id="nine apertures"/>
+<node id="four limbs"/>
+<node id="men live"/>
+<node id="die four"/>
+<node id="block passage"/>
+<node id="shut door"/>
+<node id="realm union"/>
+<node id="rule nation"/>
+<node id="big country"/>
+<node id="country humble"/>
+<node id="small country"/>
+<node id="country small"/>
+<node id="mediator sinners"/>
+<node id="treasure good"/>
+<node id="sinners hold"/>
+<node id="difficult rule"/>
+<node id="people difficult"/>
+<node id="interpretation words"/>
+<node id="good men"/>
+<node id="gets sick"/>
+<node id="never gets"/>
+<node id="interpretation people"/>
+<node id="people fear"/>
+<edge source="MIND_CONCEPT" target="ROOT_ACCESS">
+  <data key="d0">22</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="MIND_CONCEPT" target="MATTER_CONCEPT">
+  <data key="d0">9</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="MIND_CONCEPT" target="IGNORANCE_PRIOR">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="MIND_CONCEPT" target="lao tzu">
+  <data key="d0">4</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="MIND_CONCEPT" target="original text">
+  <data key="d0">8</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="MIND_CONCEPT" target="modern interpretation">
+  <data key="d0">7</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="MIND_CONCEPT" target="text modern">
+  <data key="d0">7</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="MIND_CONCEPT" target="ching original">
+  <data key="d0">7</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="MIND_CONCEPT" target="effort">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="MIND_CONCEPT" target="low morality">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="MIND_CONCEPT" target="high morality">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="MIND_CONCEPT" target="ulterior motive">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="MIND_CONCEPT" target="rule nation">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="MIND_CONCEPT" target="treasure good">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="MIND_CONCEPT" target="mediator sinners">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="MATTER_CONCEPT">
+  <data key="d0">22</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="IGNORANCE_PRIOR">
+  <data key="d0">8</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="yuan zhiming">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="interpretation yuan">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="lao tzu">
+  <data key="d0">18</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="chen shangyu">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="heaven earth">
+  <data key="d0">4</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="modern interpretation">
+  <data key="d0">81</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="text modern">
+  <data key="d0">81</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="ching original">
+  <data key="d0">81</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="daniel baida">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="translation daniel">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="original text">
+  <data key="d0">82</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="baida chen">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="zhiming english">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="english translation">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="zhuang tzu">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="tzu bible">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="ren jiyu">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="feng dapu">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="chen guyin">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="wang shang">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="jiyu chen">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="shang gong">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="shang shu">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="interpretation everyone">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="come">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="discussion please">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="straw dogs">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="please refer">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="bible part">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="refer lao">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="interpretation highest">
+  <data key="d0">4</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="ruling state">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="beneath">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="coming going">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="ancient followers">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="follow">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="heaven like">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="know eternity">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="identify loss">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="interpretation good">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="instruments ill">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="arms instruments">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="ill omen">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="name substance">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="realm union">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="effort">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="sinners hold">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="interpretation words">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="good men">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="interpretation people">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="people fear">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ROOT_ACCESS" target="soft weak">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="MATTER_CONCEPT" target="IGNORANCE_PRIOR">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="MATTER_CONCEPT" target="creator sustainer">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="MATTER_CONCEPT" target="original text">
+  <data key="d0">14</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="MATTER_CONCEPT" target="modern interpretation">
+  <data key="d0">14</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="MATTER_CONCEPT" target="text modern">
+  <data key="d0">14</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="MATTER_CONCEPT" target="ching original">
+  <data key="d0">14</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="MATTER_CONCEPT" target="thus becomes">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="MATTER_CONCEPT" target="enabling people">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="MATTER_CONCEPT" target="people return">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="MATTER_CONCEPT" target="eternal virtue">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="MATTER_CONCEPT" target="virtue enabling">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="MATTER_CONCEPT" target="know heaven">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="MATTER_CONCEPT" target="effort">
+  <data key="d0">4</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="MATTER_CONCEPT" target="whole">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="MATTER_CONCEPT" target="lao tzu">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="MATTER_CONCEPT" target="name substance">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="MATTER_CONCEPT" target="shut door">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="MATTER_CONCEPT" target="block passage">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="IGNORANCE_PRIOR" target="original text">
+  <data key="d0">4</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="IGNORANCE_PRIOR" target="modern interpretation">
+  <data key="d0">4</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="IGNORANCE_PRIOR" target="text modern">
+  <data key="d0">4</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="IGNORANCE_PRIOR" target="ching original">
+  <data key="d0">4</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="IGNORANCE_PRIOR" target="beneath">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="interpretation yuan" target="yuan zhiming">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="interpretation yuan" target="chen shangyu">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="interpretation yuan" target="modern interpretation">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="interpretation yuan" target="text modern">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="interpretation yuan" target="ching original">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="interpretation yuan" target="daniel baida">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="interpretation yuan" target="translation daniel">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="interpretation yuan" target="original text">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="interpretation yuan" target="baida chen">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="interpretation yuan" target="zhiming english">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="interpretation yuan" target="english translation">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="yuan zhiming" target="chen shangyu">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="yuan zhiming" target="modern interpretation">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="yuan zhiming" target="text modern">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="yuan zhiming" target="ching original">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="yuan zhiming" target="daniel baida">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="yuan zhiming" target="translation daniel">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="yuan zhiming" target="original text">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="yuan zhiming" target="baida chen">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="yuan zhiming" target="zhiming english">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="yuan zhiming" target="english translation">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="chen shangyu" target="modern interpretation">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="chen shangyu" target="text modern">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="chen shangyu" target="ching original">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="chen shangyu" target="daniel baida">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="chen shangyu" target="translation daniel">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="chen shangyu" target="original text">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="chen shangyu" target="baida chen">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="chen shangyu" target="zhiming english">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="chen shangyu" target="english translation">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="modern interpretation" target="lao tzu">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="modern interpretation" target="heaven earth">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="modern interpretation" target="text modern">
+  <data key="d0">81</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="modern interpretation" target="ching original">
+  <data key="d0">81</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="modern interpretation" target="daniel baida">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="modern interpretation" target="translation daniel">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="modern interpretation" target="original text">
+  <data key="d0">81</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="modern interpretation" target="baida chen">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="modern interpretation" target="zhiming english">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="modern interpretation" target="english translation">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="modern interpretation" target="wang shang">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="modern interpretation" target="shang gong">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="modern interpretation" target="interpretation everyone">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="modern interpretation" target="straw dogs">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="modern interpretation" target="interpretation highest">
+  <data key="d0">4</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="modern interpretation" target="ancient followers">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="modern interpretation" target="interpretation good">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="modern interpretation" target="effort">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="modern interpretation" target="interpretation words">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="modern interpretation" target="interpretation people">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="modern interpretation" target="people fear">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="modern interpretation" target="soft weak">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="text modern" target="lao tzu">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="text modern" target="heaven earth">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="text modern" target="ching original">
+  <data key="d0">81</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="text modern" target="daniel baida">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="text modern" target="translation daniel">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="text modern" target="original text">
+  <data key="d0">81</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="text modern" target="baida chen">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="text modern" target="zhiming english">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="text modern" target="english translation">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="text modern" target="wang shang">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="text modern" target="shang gong">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="text modern" target="interpretation everyone">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="text modern" target="straw dogs">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="text modern" target="interpretation highest">
+  <data key="d0">4</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="text modern" target="ancient followers">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="text modern" target="interpretation good">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="text modern" target="effort">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="text modern" target="interpretation words">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="text modern" target="interpretation people">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="text modern" target="people fear">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="text modern" target="soft weak">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ching original" target="lao tzu">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ching original" target="heaven earth">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ching original" target="daniel baida">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ching original" target="translation daniel">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ching original" target="original text">
+  <data key="d0">81</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ching original" target="baida chen">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ching original" target="zhiming english">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ching original" target="english translation">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ching original" target="wang shang">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ching original" target="shang gong">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ching original" target="interpretation everyone">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ching original" target="straw dogs">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ching original" target="interpretation highest">
+  <data key="d0">4</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ching original" target="ancient followers">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ching original" target="interpretation good">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ching original" target="effort">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ching original" target="interpretation words">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ching original" target="interpretation people">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ching original" target="people fear">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ching original" target="soft weak">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="daniel baida" target="translation daniel">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="daniel baida" target="original text">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="daniel baida" target="baida chen">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="daniel baida" target="zhiming english">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="daniel baida" target="english translation">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="translation daniel" target="original text">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="translation daniel" target="baida chen">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="translation daniel" target="zhiming english">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="translation daniel" target="english translation">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="original text" target="lao tzu">
+  <data key="d0">4</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="original text" target="heaven earth">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="original text" target="baida chen">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="original text" target="zhiming english">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="original text" target="english translation">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="original text" target="wang shang">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="original text" target="shang gong">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="original text" target="interpretation everyone">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="original text" target="straw dogs">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="original text" target="interpretation highest">
+  <data key="d0">4</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="original text" target="ancient followers">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="original text" target="interpretation good">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="original text" target="effort">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="original text" target="interpretation words">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="original text" target="interpretation people">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="original text" target="people fear">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="original text" target="soft weak">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="baida chen" target="zhiming english">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="baida chen" target="english translation">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="zhiming english" target="english translation">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="chinese language" target="lao tzu">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="lao tzu" target="heaven earth">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="lao tzu" target="original intention">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="lao tzu" target="tzu original">
+  <data key="d0">4</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="lao tzu" target="zhuang tzu">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="lao tzu" target="tzu bible">
+  <data key="d0">6</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="lao tzu" target="refer lao">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="lao tzu" target="please refer">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="lao tzu" target="discussion please">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="lao tzu" target="bible part">
+  <data key="d0">4</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="lao tzu" target="part two">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="lao tzu" target="see lao">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="lao tzu" target="two section">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="original intention" target="tzu original">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="tzu bible" target="refer lao">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="tzu bible" target="please refer">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="tzu bible" target="discussion please">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="tzu bible" target="bible part">
+  <data key="d0">4</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="tzu bible" target="part two">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="tzu bible" target="see lao">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="tzu bible" target="two section">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="chen guyin" target="ren jiyu">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="chen guyin" target="jiyu chen">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="chen guyin" target="shang gong">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ren jiyu" target="jiyu chen">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="ren jiyu" target="shang gong">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="jiyu chen" target="shang gong">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="shang gong" target="wang shang">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="refer lao" target="please refer">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="refer lao" target="discussion please">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="refer lao" target="bible part">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="please refer" target="discussion please">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="please refer" target="bible part">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="claims credit" target="yet claims">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="-to-find treasures" target="hard -to-find">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="discussion please" target="bible part">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="bible part" target="part two">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="bible part" target="see lao">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="bible part" target="two section">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="regard benevolence" target="straw dogs">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="overvalue physical" target="physical life">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="due lack" target="lack faith">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="due lack" target="distrust due">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="lack faith" target="distrust due">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="filial piety" target="piety compassion">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="like newborn" target="newborn infant">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="alone see" target="worldly people">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="people abandoned" target="saving people">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="people abandoned" target="good saving">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="saving people" target="good saving">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="kind teacher" target="teacher unkind">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="kind teacher" target="unkind unkind">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="teacher unkind" target="unkind unkind">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="enabling people" target="people return">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="enabling people" target="eternal virtue">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="enabling people" target="virtue enabling">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="people return" target="eternal virtue">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="people return" target="virtue enabling">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="eternal virtue" target="virtue enabling">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="arms instruments" target="instruments ill">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="arms instruments" target="ill omen">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="instruments ill" target="ill omen">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="see victory" target="something good">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="see victory" target="victory something">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="something good" target="victory something">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="killing people" target="pleasure killing">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="hard strong" target="soft weak">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="overcome hard" target="weak overcome">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="high morality" target="low morality">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="chosen discarded" target="thus chosen">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="orphaned widowed" target="widowed hapless">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="orphaned widowed" target="lords princes">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="widowed hapless" target="lords princes">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="part two" target="see lao">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="part two" target="two section">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="see lao" target="two section">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="benefits making" target="making effort">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="benefits making" target="come know">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="making effort" target="come know">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="limbs nine" target="nine apertures">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="limbs nine" target="men live">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="limbs nine" target="four limbs">
+  <data key="d0">4</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="limbs nine" target="die four">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="nine apertures" target="four limbs">
+  <data key="d0">3</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="four limbs" target="men live">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="four limbs" target="die four">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="men live" target="die four">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="block passage" target="shut door">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="big country" target="country humble">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="big country" target="small country">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="small country" target="country small">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="mediator sinners" target="treasure good">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="difficult rule" target="people difficult">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="gets sick" target="never gets">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+<edge source="interpretation people" target="people fear">
+  <data key="d0">2</data>
+  <data key="d1">Tao Te Ching Pr</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="source" attr.type="string"/>
+<key id="d0" for="edge" attr.name="weight" attr.type="long"/>
+<graph edgedefault="undirected"><node id="praj ramit"/>
+<node id="ramit dayam"/>
+<node id="ROOT_ACCESS"/>
+<node id="MIND_CONCEPT"/>
+<node id="MATTER_CONCEPT"/>
+<node id="iha riputra"/>
+<node id="riputra nyat"/>
+<node id="tasm riputra"/>
+<node id="IGNORANCE_PRIOR"/>
+<node id="heart"/>
+<node id="ramit ritya"/>
+<edge source="praj ramit" target="ramit dayam">
+  <data key="d0">2</data>
+  <data key="d1">Prajnaparamita-</data>
+</edge>
+<edge source="praj ramit" target="ROOT_ACCESS">
+  <data key="d0">7</data>
+  <data key="d1">Prajnaparamita-</data>
+</edge>
+<edge source="praj ramit" target="MIND_CONCEPT">
+  <data key="d0">2</data>
+  <data key="d1">Prajnaparamita-</data>
+</edge>
+<edge source="praj ramit" target="ramit ritya">
+  <data key="d0">2</data>
+  <data key="d1">Prajnaparamita-</data>
+</edge>
+<edge source="ramit dayam" target="ROOT_ACCESS">
+  <data key="d0">2</data>
+  <data key="d1">Prajnaparamita-</data>
+</edge>
+<edge source="ROOT_ACCESS" target="MIND_CONCEPT">
+  <data key="d0">3</data>
+  <data key="d1">Prajnaparamita-</data>
+</edge>
+<edge source="ROOT_ACCESS" target="MATTER_CONCEPT">
+  <data key="d0">3</data>
+  <data key="d1">Prajnaparamita-</data>
+</edge>
+<edge source="ROOT_ACCESS" target="iha riputra">
+  <data key="d0">2</data>
+  <data key="d1">Prajnaparamita-</data>
+</edge>
+<edge source="ROOT_ACCESS" target="riputra nyat">
+  <data key="d0">2</data>
+  <data key="d1">Prajnaparamita-</data>
+</edge>
+<edge source="ROOT_ACCESS" target="IGNORANCE_PRIOR">
+  <data key="d0">2</data>
+  <data key="d1">Prajnaparamita-</data>
+</edge>
+<edge source="ROOT_ACCESS" target="tasm riputra">
+  <data key="d0">2</data>
+  <data key="d1">Prajnaparamita-</data>
+</edge>
+<edge source="ROOT_ACCESS" target="heart">
+  <data key="d0">2</data>
+  <data key="d1">Prajnaparamita-</data>
+</edge>
+<edge source="ROOT_ACCESS" target="ramit ritya">
+  <data key="d0">2</data>
+  <data key="d1">Prajnaparamita-</data>
+</edge>
+<edge source="MIND_CONCEPT" target="MATTER_CONCEPT">
+  <data key="d0">2</data>
+  <data key="d1">Prajnaparamita-</data>
+</edge>
+<edge source="MIND_CONCEPT" target="tasm riputra">
+  <data key="d0">2</data>
+  <data key="d1">Prajnaparamita-</data>
+</edge>
+<edge source="MATTER_CONCEPT" target="riputra nyat">
+  <data key="d0">2</data>
+  <data key="d1">Prajnaparamita-</data>
+</edge>
+</graph></graphml>
